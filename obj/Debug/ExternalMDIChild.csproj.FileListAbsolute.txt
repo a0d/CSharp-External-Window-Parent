@@ -1,0 +1,8 @@
+c:\users\brandon\documents\visual studio 2013\Projects\ExternalMDIChild\ExternalMDIChild\obj\Debug\ExternalMDIChild.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2013\Projects\ExternalMDIChild\ExternalMDIChild\obj\Debug\ExternalMDIChild.Form1.resources
+c:\users\brandon\documents\visual studio 2013\Projects\ExternalMDIChild\ExternalMDIChild\obj\Debug\ExternalMDIChild.Properties.Resources.resources
+c:\users\brandon\documents\visual studio 2013\Projects\ExternalMDIChild\ExternalMDIChild\obj\Debug\ExternalMDIChild.csproj.GenerateResource.Cache
+c:\users\brandon\documents\visual studio 2013\Projects\ExternalMDIChild\ExternalMDIChild\bin\Debug\ExternalMDIChild.exe
+c:\users\brandon\documents\visual studio 2013\Projects\ExternalMDIChild\ExternalMDIChild\bin\Debug\ExternalMDIChild.pdb
+c:\users\brandon\documents\visual studio 2013\Projects\ExternalMDIChild\ExternalMDIChild\obj\Debug\ExternalMDIChild.exe
+c:\users\brandon\documents\visual studio 2013\Projects\ExternalMDIChild\ExternalMDIChild\obj\Debug\ExternalMDIChild.pdb
